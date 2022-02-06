@@ -11,4 +11,4 @@ while repeat:
     else:
         os.system('clear')
 
-print('Game ended')
+print('Game ended!')
