@@ -11,7 +11,8 @@ def directions_screen():
     return
 
 def answer():
-    answer = answers[random.randint(0, len(answers)-1)]
+    #answer = answers[random.randint(0, len(answers)-1)]
+    answer = random.choice(answers)
     la = list(answer)
     return la
 
