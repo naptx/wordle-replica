@@ -2,6 +2,10 @@
 
 ### Wordle game copy cat
 
-Testing the repl.it integration with GitHub, making and committing changes to the code, and tracking them with GitHub
+Simplified wordle replica, to test the repl.it integration with GitHub, including pull requests and code changes
 
-[Repl.it Project Link](https://replit.com/@NickPrice/wordle-replica)
+[Link to this Repl.it Project](https://replit.com/@NickPrice/wordle-replica)
+
+**Repl.it** is an online code editor, where you can write code, create projects, and execute them in one place. 
+
+Most of the code for this (simple) project was written and tested using Repl.it
